@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4781a28c-0cc8-4ffd-806f-ba0ce98d5686" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/java/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/java/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/java/MemberVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/java/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/java/PowerOfFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/java/com/company/StudentsAndGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/test/EvenNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/test/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/test/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/test/PowerOfFourTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/test/com/company/MemberVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe2WithTestCases/src/main/test/com/company/StudentsAndGradesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChessBoardPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DifferentExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RemoveVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TryCatchFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Addmatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/company/AddmatricesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_PE1_withTestCases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_PE1_withTestCases/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java_pe1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_pe1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boilerplate2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/Java_PE2_WithTestCases" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/Java_PE2_WithTestCases" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/production/java_pe2/Q2_PowerOfFour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/production/java_pe2/Q4_ConvertToUpperCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/production/java_pe2/com/company/Q1_Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/test/java_pe2/Q2_PowerOfFourTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/test/java_pe2/Q4_ConvertToUpperCaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/out/test/java_pe2/com/company/Q1_PalindromeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q2_PowerOfFour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q4_ConvertToUpperCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q5_EvenNumTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/Q6_StudentsAndGrades.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/java/com/company/Q1_Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/Q2_PowerOfFourTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/Q4_ConvertToUpperCaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/Q5_EvenNumTestTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/src/main/test/com/company/Q1_PalindromeTest.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="77">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StudentMarks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-323">
+              <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TryCatchFinally.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DifferentExceptions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/FirstandLastDate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="202">
+              <caret line="65" column="53" lean-forward="true" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#378#379#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/StudentMarksTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/RemoveVowels.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ChessBoardPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Addmatrices.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/test/StudentMarksTestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/StudentMarksTest.java" />
+        <option value="$PROJECT_DIR$/../boilerplate2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/query/parser/AggregateFunction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ChessBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RemoveVowels.java" />
+        <option value="$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/addMatrices.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/addMatrices.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/AddmatricesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TryCatchFinally.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DifferentExceptions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FirstandLastDate.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="640" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="javaPe3WithTestCases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaPe3WithTestCases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaPe3WithTestCases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaPe3WithTestCases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaPe3WithTestCases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaPe3WithTestCases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaPe3WithTestCases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaPe3WithTestCases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaPe3WithTestCases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaPe3WithTestCases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaPe3WithTestCases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaPe3WithTestCases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546928226371" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_pe2_TestCases" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="com.company" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FirstandLastDate">
+    <configuration name="DifferentExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DifferentExceptions" />
+      <module name="javaPe3WithTestCases" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstandLastDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstandLastDate" />
+      <module name="javaPe3WithTestCases" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentMarks" />
+      <module name="javaPe3WithTestCases" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TryCatchFinally" />
+      <module name="javaPe3WithTestCases" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkConsecutiveNumbers.testConsecutiveNumberForSpecialCharecters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaPe3WithTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="checkConsecutiveNumbers" />
+      <option name="METHOD_NAME" value="testConsecutiveNumberForSpecialCharecters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.checkConsecutiveNumbers.testConsecutiveNumberForSpecialCharecters" />
+      <item itemvalue="Application.TryCatchFinally" />
+      <item itemvalue="Application.StudentMarks" />
+      <item itemvalue="Application.DifferentExceptions" />
+      <item itemvalue="Application.FirstandLastDate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstandLastDate" />
+        <item itemvalue="Application.DifferentExceptions" />
+        <item itemvalue="Application.StudentMarks" />
+        <item itemvalue="Application.TryCatchFinally" />
+        <item itemvalue="JUnit.checkConsecutiveNumbers.testConsecutiveNumberForSpecialCharecters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4781a28c-0cc8-4ffd-806f-ba0ce98d5686" name="Default Changelist" comment="" />
+      <created>1546850438394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546850438394</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="checkConsecutiveNumbers - 2019.01.08 at 10h 18m 04s.xml">
+      <configuration name="checkConsecutiveNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkConsecutiveNumbers - 2019.01.08 at 10h 18m 25s.xml">
+      <configuration name="checkConsecutiveNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkConsecutiveNumbers_CondecutiveNUmbersNullInput - 2019.01.08 at 10h 32m 13s.xml">
+      <configuration name="checkConsecutiveNumbers.CondecutiveNUmbersNullInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkConsecutiveNumbers - 2019.01.08 at 10h 32m 25s.xml">
+      <configuration name="checkConsecutiveNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkConsecutiveNumbers_CondecutiveNUmbersNullInput1 - 2019.01.08 at 10h 34m 48s.xml">
+      <configuration name="checkConsecutiveNumbers.CondecutiveNUmbersNullInput1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkConsecutiveNumbers_testConsecutiveNumbersSuccess1 - 2019.01.08 at 10h 45m 43s.xml">
+      <configuration name="checkConsecutiveNumbers.testConsecutiveNumbersSuccess1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkConsecutiveNumbers_testConsecutiveNumbersSuccess1 - 2019.01.08 at 10h 54m 12s.xml">
+      <configuration name="checkConsecutiveNumbers.testConsecutiveNumbersSuccess1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkConsecutiveNumbers_testConsecutiveNumbersSuccess1 - 2019.01.08 at 10h 54m 38s.xml">
+      <configuration name="checkConsecutiveNumbers.testConsecutiveNumbersSuccess1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkConsecutiveNumbers_testConsecutiveNumberForSpecialCharecters - 2019.01.08 at 10h 57m 25s.xml">
+      <configuration name="checkConsecutiveNumbers.testConsecutiveNumberForSpecialCharecters" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkConsecutiveNumbers_testConsecutiveNumberForSpecialCharecters - 2019.01.08 at 10h 57m 39s.xml">
+      <configuration name="checkConsecutiveNumbers.testConsecutiveNumberForSpecialCharecters" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19792499" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.24592833" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.21824104" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19792499" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.048859935" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.048859935" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/test/StudentMarksTestTest.java" />
+    <entry file="file://$PROJECT_DIR$/../boilerplate2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/query/parser/com/stackroute/datamunger/query/parser/Restriction.java" />
+    <entry file="file://$PROJECT_DIR$/../boilerplate2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/query/parser/com/stackroute/datamunger/query/parser/QueryParameter.java" />
+    <entry file="file://$PROJECT_DIR$/../boilerplate2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/query/parser/com/stackroute/datamunger/query/parser/QueryParser.java" />
+    <entry file="file://$PROJECT_DIR$/../boilerplate2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/query/parser/com/stackroute/datamunger/query/parser/AggregateFunction.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/AddmatricesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/StudentMarksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ChessBoardPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Addmatrices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="65" column="53" lean-forward="true" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StudentMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TryCatchFinally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DifferentExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstandLastDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaPe3WithTestCases</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
