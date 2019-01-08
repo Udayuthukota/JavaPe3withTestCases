@@ -6,7 +6,8 @@ public class ConsecutiveNumbers
          public static String isConsecutive(String string) {
              if (string == null) {
                  return "Null Input Not Expected";
-             } else {
+             }
+             else {
 
                  boolean flag = true;
                  String[] numbers = string.split(",");

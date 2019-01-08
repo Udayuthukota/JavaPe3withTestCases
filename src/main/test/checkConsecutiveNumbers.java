@@ -37,7 +37,7 @@ public class checkConsecutiveNumbers {
     }
 
     @Test
-    public void CondecutiveNUmbersNullInput()
+    public void CondecutiveNumbersNullInput()
     {
         String expectedValue="Null Input Not Expected";
         String actualValue=consecutiveNumbers.isConsecutive(null);
@@ -45,9 +45,9 @@ public class checkConsecutiveNumbers {
         Assert.assertNotNull(actualValue);
     }
     @Test
-    public void CondecutiveNUmbersNullInput1()
+    public void CondecutiveNUmbersForEmptyString()
     {
-        String expectedValue="Null Input Not Expected";
+        String expectedValue="Number is expected";
         String actualValue=consecutiveNumbers.isConsecutive(" ");
         Assert.assertEquals(expectedValue,actualValue);
         Assert.assertNotNull(actualValue);

@@ -24,10 +24,29 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/company/Addmatrices.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/test/com/company/AddmatricesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe4WithTestCases/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe4WithTestCases/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe4WithTestCases/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe4WithTestCases/src/main/java/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe4WithTestCases/src/main/java/com/company/OccuranceOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaPe4WithTestCases/src/main/java/com/company/Replaceingchar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java_PE1_withTestCases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_PE1_withTestCases/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java_pe1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_pe1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boilerplate2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe3WithTestCases/ConsecutiveNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPe3WithTestCases/ConsecutiveNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe3WithTestCases/FirstandLastDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPe3WithTestCases/FirstandLastDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe3WithTestCases/com/company/Addmatrices.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPe3WithTestCases/com/company/Addmatrices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe3WithTestCases/checkConsecutiveNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaPe3WithTestCases/checkConsecutiveNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe3WithTestCases/com/company/AddmatricesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FirstandLastDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FirstandLastDate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StudentMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Addmatrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Addmatrices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/StudentMarksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/StudentMarksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/AddmatricesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/checkAddmatrices.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/Java_PE2_WithTestCases" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/Java_PE2_WithTestCases" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/vcs.xml" afterDir="false" />
@@ -58,28 +77,33 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="77">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/StudentMarks.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-323">
-              <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+            <state relative-caret-position="255">
+              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TryCatchFinally.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StudentMarks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="225">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/StudentMarksTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,18 +112,20 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/DifferentExceptions.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FirstandLastDate.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            <state>
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#264#265#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -108,8 +134,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="65" column="53" lean-forward="true" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
+            <state relative-caret-position="304">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#378#379#0" expanded="true" />
@@ -122,24 +148,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/StudentMarksTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#298#299#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/RemoveVowels.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+            <state relative-caret-position="420">
+              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,7 +162,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ChessBoardPattern.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
+            <state relative-caret-position="345">
               <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -164,8 +176,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Addmatrices.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="375">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/checkAddmatrices.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,34 +205,36 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/test/StudentMarksTestTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/StudentMarksTest.java" />
         <option value="$PROJECT_DIR$/../boilerplate2/DataMungerStep2_Boilerplate/src/com/stackroute/datamunger/query/parser/AggregateFunction.java" />
         <option value="$PROJECT_DIR$/src/main/java/ChessBoard.java" />
         <option value="$PROJECT_DIR$/src/main/java/RemoveVowels.java" />
         <option value="$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/addMatrices.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/addMatrices.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/company/AddmatricesTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/TryCatchFinally.java" />
-        <option value="$PROJECT_DIR$/src/main/java/StudentMarks.java" />
         <option value="$PROJECT_DIR$/src/main/java/DifferentExceptions.java" />
         <option value="$PROJECT_DIR$/src/main/java/FirstandLastDate.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/AddmatricesTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/Addmatrices.java" />
+        <option value="$PROJECT_DIR$/src/main/test/StudentMarksTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/checkAddmatrices.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="27" />
-    <option name="width" value="640" />
+    <option name="width" value="620" />
     <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -259,6 +285,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javaPe3WithTestCases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaPe3WithTestCases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -270,18 +304,19 @@
     <property name="Repository.Attach.Annotations" value="true" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546928226371" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546973800395" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_pe2_TestCases" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataMungerStep3_Boilerplate" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
       <recent name="com.company" />
+      <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -302,59 +337,73 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FirstandLastDate">
-    <configuration name="DifferentExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DifferentExceptions" />
-      <module name="javaPe3WithTestCases" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstandLastDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstandLastDate" />
-      <module name="javaPe3WithTestCases" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentMarks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudentMarks" />
-      <module name="javaPe3WithTestCases" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TryCatchFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TryCatchFinally" />
-      <module name="javaPe3WithTestCases" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="checkConsecutiveNumbers.testConsecutiveNumberForSpecialCharecters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.checkAddmatrices">
+    <configuration name="StudentMarksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaPe3WithTestCases" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="checkConsecutiveNumbers" />
-      <option name="METHOD_NAME" value="testConsecutiveNumberForSpecialCharecters" />
+      <option name="MAIN_CLASS_NAME" value="StudentMarksTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentMarksTest.testStudentCharInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaPe3WithTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentMarksTest" />
+      <option name="METHOD_NAME" value="testStudentCharInput" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentMarksTest.testStudentMarksFailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaPe3WithTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentMarksTest" />
+      <option name="METHOD_NAME" value="testStudentMarksFailure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentMarksTest.testStudentSpecialCharecter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaPe3WithTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentMarksTest" />
+      <option name="METHOD_NAME" value="testStudentSpecialCharecter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkAddmatrices" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaPe3WithTestCases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.checkAddmatrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.checkConsecutiveNumbers.testConsecutiveNumberForSpecialCharecters" />
-      <item itemvalue="Application.TryCatchFinally" />
-      <item itemvalue="Application.StudentMarks" />
-      <item itemvalue="Application.DifferentExceptions" />
-      <item itemvalue="Application.FirstandLastDate" />
+      <item itemvalue="JUnit.StudentMarksTest" />
+      <item itemvalue="JUnit.StudentMarksTest.testStudentMarksFailure" />
+      <item itemvalue="JUnit.StudentMarksTest.testStudentCharInput" />
+      <item itemvalue="JUnit.StudentMarksTest.testStudentSpecialCharecter" />
+      <item itemvalue="JUnit.checkAddmatrices" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirstandLastDate" />
-        <item itemvalue="Application.DifferentExceptions" />
-        <item itemvalue="Application.StudentMarks" />
-        <item itemvalue="Application.TryCatchFinally" />
-        <item itemvalue="JUnit.checkConsecutiveNumbers.testConsecutiveNumberForSpecialCharecters" />
+        <item itemvalue="JUnit.checkAddmatrices" />
+        <item itemvalue="JUnit.StudentMarksTest" />
+        <item itemvalue="JUnit.StudentMarksTest.testStudentMarksFailure" />
+        <item itemvalue="JUnit.StudentMarksTest.testStudentSpecialCharecter" />
+        <item itemvalue="JUnit.StudentMarksTest.testStudentCharInput" />
       </list>
     </recent_temporary>
   </component>
@@ -372,35 +421,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="checkConsecutiveNumbers - 2019.01.08 at 10h 18m 04s.xml">
-      <configuration name="checkConsecutiveNumbers" configurationId="JUnit" />
+    <history-entry file="RemoveVowelsTest - 2019.01.09 at 00h 02m 17s.xml">
+      <configuration name="RemoveVowelsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="checkConsecutiveNumbers - 2019.01.08 at 10h 18m 25s.xml">
-      <configuration name="checkConsecutiveNumbers" configurationId="JUnit" />
+    <history-entry file="StudentMarksTest - 2019.01.09 at 00h 05m 14s.xml">
+      <configuration name="StudentMarksTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="checkConsecutiveNumbers_CondecutiveNUmbersNullInput - 2019.01.08 at 10h 32m 13s.xml">
-      <configuration name="checkConsecutiveNumbers.CondecutiveNUmbersNullInput" configurationId="JUnit" />
+    <history-entry file="StudentMarksTest - 2019.01.09 at 00h 08m 24s.xml">
+      <configuration name="StudentMarksTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="checkConsecutiveNumbers - 2019.01.08 at 10h 32m 25s.xml">
-      <configuration name="checkConsecutiveNumbers" configurationId="JUnit" />
+    <history-entry file="StudentMarksTest - 2019.01.09 at 00h 08m 36s.xml">
+      <configuration name="StudentMarksTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="checkConsecutiveNumbers_CondecutiveNUmbersNullInput1 - 2019.01.08 at 10h 34m 48s.xml">
-      <configuration name="checkConsecutiveNumbers.CondecutiveNUmbersNullInput1" configurationId="JUnit" />
+    <history-entry file="StudentMarksTest_testStudentMarksFailure - 2019.01.09 at 00h 15m 28s.xml">
+      <configuration name="StudentMarksTest.testStudentMarksFailure" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="checkConsecutiveNumbers_testConsecutiveNumbersSuccess1 - 2019.01.08 at 10h 45m 43s.xml">
-      <configuration name="checkConsecutiveNumbers.testConsecutiveNumbersSuccess1" configurationId="JUnit" />
+    <history-entry file="StudentMarksTest_testStudentMarksFailure - 2019.01.09 at 00h 15m 49s.xml">
+      <configuration name="StudentMarksTest.testStudentMarksFailure" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="checkConsecutiveNumbers_testConsecutiveNumbersSuccess1 - 2019.01.08 at 10h 54m 12s.xml">
-      <configuration name="checkConsecutiveNumbers.testConsecutiveNumbersSuccess1" configurationId="JUnit" />
+    <history-entry file="StudentMarksTest_testStudentCharInput - 2019.01.09 at 00h 17m 16s.xml">
+      <configuration name="StudentMarksTest.testStudentCharInput" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="checkConsecutiveNumbers_testConsecutiveNumbersSuccess1 - 2019.01.08 at 10h 54m 38s.xml">
-      <configuration name="checkConsecutiveNumbers.testConsecutiveNumbersSuccess1" configurationId="JUnit" />
+    <history-entry file="StudentMarksTest_testStudentSpecialCharecter - 2019.01.09 at 00h 17m 59s.xml">
+      <configuration name="StudentMarksTest.testStudentSpecialCharecter" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="checkConsecutiveNumbers_testConsecutiveNumberForSpecialCharecters - 2019.01.08 at 10h 57m 25s.xml">
-      <configuration name="checkConsecutiveNumbers.testConsecutiveNumberForSpecialCharecters" configurationId="JUnit" />
+    <history-entry file="StudentMarksTest_testStudentMarksFailure - 2019.01.09 at 00h 20m 15s.xml">
+      <configuration name="StudentMarksTest.testStudentMarksFailure" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="checkConsecutiveNumbers_testConsecutiveNumberForSpecialCharecters - 2019.01.08 at 10h 57m 39s.xml">
-      <configuration name="checkConsecutiveNumbers.testConsecutiveNumberForSpecialCharecters" configurationId="JUnit" />
+    <history-entry file="StudentMarksTest - 2019.01.09 at 00h 20m 30s.xml">
+      <configuration name="StudentMarksTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -420,7 +469,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.21824104" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.048859935" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -444,7 +493,7 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.048859935" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.24592833" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -476,10 +525,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FirstandLastDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TryCatchFinally.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/RemoveVowelsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state>
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#264#265#0" expanded="true" />
@@ -488,22 +571,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/AddmatricesTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DifferentExceptions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="75">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StudentMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/StudentMarksTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#254#255#0" expanded="true" />
@@ -512,19 +611,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/RemoveVowels.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ChessBoardPattern.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
+        <state relative-caret-position="345">
           <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -536,64 +632,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Addmatrices.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="375">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/ConsecutiveNumbersTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/checkAddmatrices.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/checkConsecutiveNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="65" column="53" lean-forward="true" selection-start-line="65" selection-start-column="53" selection-end-line="65" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="5" column="60" lean-forward="true" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StudentMarks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TryCatchFinally.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DifferentExceptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FirstandLastDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="43" lean-forward="true" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        <state relative-caret-position="150">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -7,12 +7,14 @@ public class StudentMarks {
         StringBuilder result=new StringBuilder();
         for(int i=0;i<number;i++)
         {
-            if(Integer.parseInt(a[i])<100)
+
+            if(a[i].matches("-?[0-9]+") && number>0 && number<500)
             {
+            if(Integer.parseInt(a[i])<100)
                 result.append(a[i]+" ");
             }
             else
-                return "Invalid Input";
+                return "Enter a Invalid Input";
         }
         return result.toString();
     }

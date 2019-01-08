@@ -12,7 +12,7 @@ public class FirstandLastDate {
 
         System.out.println();
 // Print dates of the current week starting on Monday
-        DateFormat dateformat = new SimpleDateFormat("E dd/MM/yyyy");
+        DateFormat dateformat = new SimpleDateFormat("E DD/MMMM/yyyy");
         System.out.println(dateformat.format(calendar.getTime()));
         for (int i = 0; i <6; i++) {
             calendar.add(Calendar.DATE,1);
