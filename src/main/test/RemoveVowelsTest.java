@@ -1,15 +1,13 @@
+import com.stackroute.pe3.RemoveVowels;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
 import java.util.ArrayList;
 import java.util.List;
-
 import static org.junit.Assert.*;
-
-public class RemoveVowelsTest {
-
-    RemoveVowels removeVowels;
+public class RemoveVowelsTest
+{
+    RemoveVowels removeVowels = new RemoveVowels();
     @Before
     public void setUp()
     {
@@ -21,8 +19,8 @@ public class RemoveVowelsTest {
         removeVowels=null;
     }
 
- String[] places={"uday","bangalore","mangalore"};
-
+    String[] places={"uday","bangalore","mangalore"};
+     //pass case for sample input
     @Test
     public void checkRemoveVowelsSuccess()
     {
@@ -35,6 +33,7 @@ public class RemoveVowelsTest {
         assertEquals(expectedValue,actualValue);
 
     }
+    //fail case for sample input
     @Test
     public void checkRemoveVowelsFailure()
     {
@@ -47,9 +46,4 @@ public class RemoveVowelsTest {
         assertNotEquals(expectedValue,actualValue);
 
     }
-
-
-
-
-
 }
