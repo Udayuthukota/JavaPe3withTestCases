@@ -12,11 +12,6 @@ Write a program to create a ChessBoard pattern with the help of multidimensional
 package com.stackroute.pe3;
 public class ChessBoardPattern
 {
-    public static void main(String[] args)
-    {
-        System.out.println(chessPattern(8, 8));
-    }
-
      public static String chessPattern(int a, int b)
      { //loop for rows
         String result = "WW|";
